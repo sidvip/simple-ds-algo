@@ -1,2 +1,1 @@
-# simple-ds-algo
-Helpful for using the data structures and understanding how data structure and algorithms work in visual manner
+# the reference of the return object should be different so that it didn't affect other

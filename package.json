@@ -1,0 +1,24 @@
+{
+  "name": "simple-ds-algo",
+  "version": "1.0.0",
+  "description": "This package consists of implementation of Data Structures and Algorithms which developers use for their day to day life.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fix-lint": "standard --fix \"lib/**/*.js\"",
+    "get-lint": "standard -s"
+  },
+  "keywords": [
+    "data",
+    "structures",
+    "algorithms",
+    "searching",
+    "sorting"
+  ],
+  "author": "Siddhartha Vibhu Pharswan",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "standard": "^16.0.4"
+  }
+}
